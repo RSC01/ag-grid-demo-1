@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* resolve testing comment for index  js */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
